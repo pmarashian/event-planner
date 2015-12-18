@@ -1,0 +1,24 @@
+{
+  "name": "event-planner",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pmarashian/event-planner",
+  "authors": [
+    "pmarashian <phillip.marashian@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "~1.8.3",
+    "angular": "~1.4.8"
+  }
+}
